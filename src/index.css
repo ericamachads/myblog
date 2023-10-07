@@ -11,3 +11,23 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+h3{
+  font-family: 'Chewy' !important; 
+  color: #302322;
+}
+/* Navbar */
+.right{
+  margin: '20px';
+  padding: '20px';
+  font-family: 'Chewy';
+  padding: 30px;
+}
+.nav-wrapper{
+  height: 150px;
+  display: flex;
+}
+.imageLogo{
+  height: 140px;
+  margin: 10px;
+  padding: 10px;
+}
